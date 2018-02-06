@@ -12,9 +12,11 @@ class App extends Component {
   };
   
 
-  imageClicked = (event) => {
+ 
+
+
+  imageClicked = (id) => {
     // this.setState({ score: this.state.score + 1 });
-    event.preventDefault();
     console.log("clicked");
   };
 
@@ -35,13 +37,14 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>React Clicky-Game</Title>
+        <Title>The Simpsons Clicky-Game</Title>
         {this.state.characters.map(data => (
           <Card
             id={data.id}
             key={data.id}
             name={data.name}
             image={data.image}
+            imageClicked={this.imageClicked} 
           />
         ))}
       </Wrapper>

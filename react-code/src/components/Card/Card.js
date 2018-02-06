@@ -4,11 +4,9 @@ import "./Card.css";
 const Card = props => (
   <div className="card" >
     <div className="img-container">
-    <button onClick={this.imageClicked}>
+    <button onClick={()=>props.imageClicked(props.id)}>
     <img alt={props.name} src={props.image}/>Click on this image
       </button>
-      
-      
     </div>
     <div className="content">
       <ul>
