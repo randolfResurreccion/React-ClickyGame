@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "name": "Homer",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Bart",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Krusty",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/e/e5/Krusty_The_Clown.png/revision/latest?cb=20131004191501",
+      "clicked": false
+
+    },
+    {
+      "id": 4,
+      "name": "Mr. Burn",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/a/a7/Montgomery_Burns.png/revision/latest?cb=20100602062705",
+      "clicked": false
+
+    },
+    {
+      "id": 5,
+      "name": "Maggie",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/e/ed/Lisa-Simpson-icon-1.png/revision/latest?cb=20170628205647",
+      "clicked": false
+
+    },
+    {
+      "id": 6,
+      "name": "Moe",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/80/Moe_Szyslak.png",
+      "clicked": false
+
+    },
+    {
+      "id": 7,
+      "name": "Barney",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/68/Barney_Gumble_-_shading.png/revision/latest?cb=20130727032330",
+      "clicked": false
+
+    },
+    {
+      "id": 8,
+      "name": "Wiggum",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Ralph_Wiggum.png/200px-Ralph_Wiggum.png",
+      "clicked": false
+
+    },
+    {
+      "id": 9,
+      "name": "Apu",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/7/7d/Apu_Nahasapeemapetilon.png/revision/latest?cb=20171027210822",
+      "clicked": false
+
+    },
+    {
+      "id": 10,
+      "name": "Nelson",
+      "image": "https://aintnogod.com/ipb/uploads/gallery/album_17/gallery_298_17_3754.gif",
+      "clicked": false
+
+    },
+    {
+      "id": 11,
+      "name": "Millhouse",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Milhouse.PNG/222px-Milhouse.PNG",
+      "clicked": false
+
+    },
+    {
+      "id": 12,
+      "name": "Skinner",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/3/3a/Seymour_Skinner.png/revision/latest?cb=20151011181559",
+      "clicked": false
+
+    }
+  ]
