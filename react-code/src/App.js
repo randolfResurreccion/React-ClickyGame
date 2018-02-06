@@ -7,23 +7,41 @@ import "./App.css";
 class App extends Component {
   
   state = {
-    characters
+    characters,
+    score: 0
   };
   
-  // Map over this.state.friends and render a FriendCard component for each friend object
+
+  imageClicked = (event) => {
+    // this.setState({ score: this.state.score + 1 });
+    event.preventDefault();
+    console.log("clicked");
+  };
+
+
+  // clickImage = (id) => {
+
+  //   const Characters = this.state.characters;
+  //   const isClicked = Characters.filter(Character => Character.id === id);
+    
+  //   if(isClicked) 
+  
+  // };
+  
+ 
+ 
+ 
+ 
   render() {
     return (
       <Wrapper>
         <Title>React Clicky-Game</Title>
         {this.state.characters.map(data => (
           <Card
-            // removeFriend={this.removeFriend}
             id={data.id}
             key={data.id}
             name={data.name}
             image={data.image}
-            occupation={data.occupation}
-            location={data.location}
           />
         ))}
       </Wrapper>
