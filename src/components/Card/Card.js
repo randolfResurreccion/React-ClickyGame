@@ -5,7 +5,7 @@ const Card = props => (
   <div className="card" >
     <div className="img-container">
     <button onClick={()=>props.imageClicked(props.id)}>
-    <img alt={props.name} src={props.image}/>Click on this image
+    <img alt={props.name} src={props.image}/>
       </button>
     </div>
     <div className="content">
