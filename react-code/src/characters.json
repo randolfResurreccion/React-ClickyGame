@@ -27,8 +27,8 @@
     },
     {
       "id": 5,
-      "name": "Maggie",
-      "image": "https://vignette.wikia.nocookie.net/simpsons/images/e/ed/Lisa-Simpson-icon-1.png/revision/latest?cb=20170628205647",
+      "name": "Lisa",
+      "image": "https://vignette.wikia.nocookie.net/simpsonstappedout/images/e/ea/Lisa_Unlock.png/revision/latest?cb=20151004124734",
       "clicked": false
 
     },
@@ -41,8 +41,8 @@
     },
     {
       "id": 7,
-      "name": "Barney",
-      "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/68/Barney_Gumble_-_shading.png/revision/latest?cb=20130727032330",
+      "name": "Chief",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/0/0e/245px-Chief_Wiggum.png/revision/latest?cb=20140830013250",
       "clicked": false
 
     },
@@ -56,21 +56,21 @@
     {
       "id": 9,
       "name": "Apu",
-      "image": "https://vignette.wikia.nocookie.net/simpsons/images/7/7d/Apu_Nahasapeemapetilon.png/revision/latest?cb=20171027210822",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Apu_Nahasapeemapetilon_%28The_Simpsons%29.png",
       "clicked": false
 
     },
     {
       "id": 10,
       "name": "Nelson",
-      "image": "https://aintnogod.com/ipb/uploads/gallery/album_17/gallery_298_17_3754.gif",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/b/bb/Nelson_Muntz_%28Official_Image%29.png/revision/latest?cb=20140817110628",
       "clicked": false
 
     },
     {
       "id": 11,
       "name": "Millhouse",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Milhouse.PNG/222px-Milhouse.PNG",
+      "image": "https://static.simpsonswiki.com/images/thumb/6/62/Tapped_Out_Fit_Milhouse_Artwork.png/140px-Tapped_Out_Fit_Milhouse_Artwork.png",
       "clicked": false
 
     },
